@@ -1,0 +1,11 @@
+{
+  "name": "tn93",
+  "author": "Sergei L Kosakovsky Pond",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/veg/tn93.git"
+  },
+    "scripts": {
+    "install": "cmake .;make"
+  }
+}
