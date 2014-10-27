@@ -7,6 +7,6 @@
   "url": "https://github.com/veg/tn93.git"
   },
     "scripts": {
-    "install": "cmake .;make"
+    "install": "/usr/local/bin/cmake .;make"
   }
 }
